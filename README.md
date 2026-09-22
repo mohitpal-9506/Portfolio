@@ -22,4 +22,4 @@ web applications and data-driven solutions.
 ### 📫 Connect With Me
 - LinkedIn: [Mohit Singh Pal](YOUR_LINKEDIN_LINK)
 - Email: mohitpal9506@gmail.com
-- Portfolio: https://github.com/mohitpal-9506/Portfolio.git
+- Portfolio: https://mohitpal-9506.github.io/Portfolio/
